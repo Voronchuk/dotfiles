@@ -10,8 +10,6 @@ ln -sb dotfiles/.screenrc .
 ln -sb dotfiles/.bash_profile .
 ln -sb dotfiles/.bashrc .
 ln -sb dotfiles/.bashrc_custom .
-mv .emacs.d .emacs.d~
-ln -s dotfiles/.emacs.d .
 ```
 
 See also http://github.com/startup-class/setup to install prerequisite
