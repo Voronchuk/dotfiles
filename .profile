@@ -14,6 +14,8 @@
 #  Sarunas Vancevicius original: http://www.redbrick.dcu.ie/~svan/configs/screenrc
 #  Mike Perry original:  http://fscked.org/writings/225notes/unix/.screenrc
 
+bash
+
 ## -----------------------------------------------------------------------------------------
 ## -- 1) Set variables and keybindings for emacs compatibility (remapping Ctrl-A to Ctrl-T)
 ## -----------------------------------------------------------------------------------------
