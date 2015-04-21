@@ -1,5 +1,7 @@
 # .bash_profile file
-# By Balaji S. Srinivasan (balajis@stanford.edu)
+# By Vyacheslav Voronchuk
+#
+# Balaji S. Srinivasan original: https://github.com/startup-class/dotfiles/blob/master/.bash_profile
 #
 # Concepts:
 # http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
