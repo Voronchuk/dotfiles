@@ -1,5 +1,7 @@
 # .bashrc file
-# By Balaji S. Srinivasan (balajis@stanford.edu)
+# By Vyacheslav Voronchuk
+#
+# Balaji S. Srinivasan original: https://github.com/startup-class/dotfiles/blob/master/.bashrc
 #
 # Concepts:
 #
