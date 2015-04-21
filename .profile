@@ -1,5 +1,5 @@
 # GNU Screen configuration file
-# Vyacheslav Voronchuk
+# By Vyacheslav Voronchuk
 #
 # Notes
 # -----
@@ -10,7 +10,7 @@
 #    Example: sorendition "+r +kG"  is red highlighting with black text on a green background
 #
 #  Modification of original files by Balaji S. Srinivasan, Sven Guckes, Sarunas Vancevicius, and Mike Perry
-#  Balaji S. Srinivasan original: https://github.com/startup-class/dotfiles/blob/master/.bash_profile
+#  Balaji S. Srinivasan original: https://github.com/startup-class/dotfiles/blob/master/.screenrc
 #  Sarunas Vancevicius original: http://www.redbrick.dcu.ie/~svan/configs/screenrc
 #  Mike Perry original:  http://fscked.org/writings/225notes/unix/.screenrc
 
